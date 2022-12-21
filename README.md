@@ -1,4 +1,4 @@
-# GeorgiaTech Comp-Vision Project
+# Georgia Tech Computer Vision Project
 1. [Project1](https://github.com/eliotte0106/Comp-Vision/tree/main/project-1)
 2. [Project2](https://github.com/eliotte0106/Comp-Vision/tree/main/project-2)
 3. [Project3](https://github.com/eliotte0106/Comp-Vision/tree/main/project-3)
